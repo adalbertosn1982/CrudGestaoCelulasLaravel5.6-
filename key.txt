@@ -1,0 +1,2 @@
+@php artisan key:generate
+Application key [base64:e4REyNRkLAIwa24WmkZkYaz8tozQ40vdFY9TGRcvv6U=] set successfully.
